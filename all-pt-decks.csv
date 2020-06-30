@@ -537,6 +537,7 @@ ptcol96,Pro Tour Columbus 1996,1,1996-07-07,Ice Age block,Peter Radonjic,4,Repri
 1996wc,1996 World Championship,1,1996-08-18,4ED-ALL standard,Scott Johns,6,Strip Mine,4,main,Land
 1996wc,1996 World Championship,1,1996-08-18,4ED-ALL standard,Scott Johns,6,Sengir Vampire,2,main,Creature
 1996wc,1996 World Championship,1,1996-08-18,4ED-ALL standard,Scott Johns,6,Zuran Orb,1,main,Artifact
+1996wc,1996 World Championship,1,1996-08-18,4ED-ALL standard,Scott Johns,6,Swamp,18,main,Basic Land
 1996wc,1996 World Championship,1,1996-08-18,4ED-ALL standard,Scott Johns,6,Contagion,1,side,Instant
 1996wc,1996 World Championship,1,1996-08-18,4ED-ALL standard,Scott Johns,6,Dance of the Dead,2,side,Enchantment
 1996wc,1996 World Championship,1,1996-08-18,4ED-ALL standard,Scott Johns,6,Dark Banishing,3,side,Instant
@@ -688,6 +689,7 @@ ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Brian Hacker,3,Contag
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Brian Hacker,3,Demonic Consultation,2,side,Instant
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Brian Hacker,3,Dystopia,4,side,Enchantment
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Brian Hacker,3,Gloom,2,side,Enchantment
+ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Brian Hacker,3,Infernal Darkness,2,side,Enchantment
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Brian Hacker,3,Necropotence,1,side,Enchantment
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Brian Hacker,3,Zuran Orb,1,side,Artifact
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Lava Tubes,1,main,Land
@@ -711,6 +713,7 @@ ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Lightn
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Mountain,4,main,Basic Land
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Swamp,12,main,Basic Land
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Anarchy,4,side,Sorcery
+ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Contagion,1,side,Instant
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Dystopia,4,side,Enchantment
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Infernal Darkness,1,side,Enchantment
 ptdal96,Pro Tour Dallas 1996,1,1996-11-24,4ED-MIR standard,Chris Pikula,4,Ivory Tower,1,side,Artifact
@@ -7115,6 +7118,12 @@ ptvale07,Pro Tour Valencia 2007,1,2007-10-14,extended thru 10E,Makihito Mihara,8
 2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Tarfire,2,main,Tribal Instant
 2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Lotus Bloom,4,main,Artifact
 2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Pyromancer's Swath,3,main,Enchantment
+2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Wheel of Fate,,side,Sorcery
+2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Ancient Grudge,,side,Instant
+2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Dodecapod,,side,Artifact Creature
+2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Empty the Warrens,,side,Sorcery
+2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Sulfurous Blast,,side,Instant
+2007wc,2007 World Championship,1,2007-12-09,LRW standard,Patrick Chapin,2,Ignite Memories,,side,Sorcery
 2007wc,2007 World Championship,1,2007-12-09,LRW standard,Gabriel Nassif,3,Fungal Reaches,4,main,Land
 2007wc,2007 World Championship,1,2007-12-09,LRW standard,Gabriel Nassif,3,Molten Slagheap,4,main,Land
 2007wc,2007 World Championship,1,2007-12-09,LRW standard,Gabriel Nassif,3,Snow-Covered Mountain,12,main,Basic Snow Land
