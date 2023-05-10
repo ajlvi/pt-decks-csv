@@ -1,7 +1,7 @@
 # pt-decks-csv
 A compilation of each published decklist from every single-elimination round at PTs/WCs/MCs/PTs.
 
-The is_pt column is 0 for "small" Worlds and Players Tour events; 1 otherwise. Most of the other columns are probably self-explanatory.
+The is_pt column is 0 for "small" Worlds, Players Tour events, and pandemic-era Arena events; 1 otherwise. Most of the other columns are probably self-explanatory.
 
 The following events only have four lists included:<ul>
 <li>Pro Tour Columbus 1996 [cut was to top 4]
