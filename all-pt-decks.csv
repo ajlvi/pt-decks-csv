@@ -1,4 +1,4 @@
-event,full_name,is_pt,date,format,player,place,card,quantity,location,type_line,color
+A,full_name,is_pt,date,format,player,place,card,quantity,location,type_line,color
 ptny96,Pro Tour New York 1996,1,1996-02-18,4ED-HML standard+,Michael Loconto,1,Wizards' School,1,main,Land,
 ptny96,Pro Tour New York 1996,1,1996-02-18,4ED-HML standard+,Michael Loconto,1,Deflection,1,main,Instant,U
 ptny96,Pro Tour New York 1996,1,1996-02-18,4ED-HML standard+,Michael Loconto,1,Blinking Spirit,2,main,Creature,W
@@ -21473,7 +21473,7 @@ champ-inn,Innistrad Championship,0,2021-12-04,MTGA historic thru VOW,Yuta Takaha
 champ-inn,Innistrad Championship,0,2021-12-04,MTGA historic thru VOW,Yuta Takahashi,8,Prismari Command,1,side,Instant,UR
 champ-inn,Innistrad Championship,0,2021-12-04,MTGA historic thru VOW,Yuta Takahashi,8,Soul-Guide Lantern,2,side,Artifact,
 champ-inn,Innistrad Championship,0,2021-12-04,MTGA historic thru VOW,Yuta Takahashi,8,Sweltering Suns,1,side,Sorcery,R
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,A-Dungeon Descent,1,main,Land,
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Dungeon Descent,1,main,Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Brightclimb Pathway,4,main,Land // Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Forsaken Crossroads,4,main,Land,
@@ -21483,7 +21483,7 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,P
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Shattered Sanctum,4,main,Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Swamp,1,main,Basic Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,"Takenuma, Abandoned Mire",1,main,Legendary Land,
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,A-Triumphant Adventurer,4,main,Creature,WB
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Triumphant Adventurer,4,main,Creature,WB
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Archon of Emeria,4,main,Creature,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Citystalker Connoisseur,4,main,Creature,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Intrepid Adversary,1,main,Creature,W
@@ -21496,7 +21496,7 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,I
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,March of Otherworldly Light,1,main,Instant,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Power Word Kill,1,main,Instant,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Vanishing Verse,2,main,Instant,WB
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,A-Precipitous Drop,4,main,Enchantment,B
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Precipitous Drop,4,main,Enchantment,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,The Wandering Emperor,2,main,Legendary Planeswalker,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Bloodchief's Thirst,2,side,Sorcery,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Eli Kassis,1,Cathar Commando,1,side,Creature,W
@@ -21519,7 +21519,7 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,Sh
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,Sundown Pass,3,main,Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,Swamp,1,main,Basic Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,"Takenuma, Abandoned Mire",1,main,Legendary Land,
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,A-Triumphant Adventurer,3,main,Creature,WB
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,Triumphant Adventurer,3,main,Creature,WB
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,Archon of Emeria,2,main,Creature,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,Citystalker Connoisseur,4,main,Creature,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Zach Dunn,2,Skyclave Apparition,3,main,Creature,W
@@ -21576,11 +21576,11 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yudai Miyano,3
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yudai Miyano,3,Skyclave Apparition,3,side,Creature,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yudai Miyano,3,Spell Pierce,2,side,Instant,U
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yudai Miyano,3,Vanishing Verse,2,side,Instant,WB
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,A-Faceless Haven,4,main,Snow Land,
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,Faceless Haven,4,main,Snow Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,Cave of the Frost Dragon,1,main,Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,"Eiganjo, Seat of the Empire",3,main,Legendary Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,Snow-Covered Plains,17,main,Basic Snow Land,
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,A-Luminarch Aspirant,3,main,Creature,W
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,Luminarch Aspirant,3,main,Creature,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,Archon of Emeria,4,main,Creature,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,Brutal Cathar,1,main,Creature,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jonny Guttman,4,Elite Spellbinder,2,main,Creature,W
@@ -21609,7 +21609,7 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel 
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel Depraz,5,Needleverge Pathway,2,main,Land // Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel Depraz,5,Riverglide Pathway,4,main,Land // Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel Depraz,5,Stormcarved Coast,2,main,Land,
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel Depraz,5,A-Goldspan Dragon,2,main,Creature,R
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel Depraz,5,Goldspan Dragon,2,main,Creature,R
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel Depraz,5,"Hinata, Dawn-Crowned",4,main,Legendary Creature,WUR
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel Depraz,5,Abrade,4,main,Instant,R
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jean-Emmanuel Depraz,5,Disdainful Stroke,1,main,Instant,U
@@ -21645,7 +21645,7 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,Sh
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,Sundown Pass,4,main,Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,Swamp,1,main,Basic Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,"Takenuma, Abandoned Mire",1,main,Legendary Land,
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,A-Triumphant Adventurer,3,main,Creature,WB
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,Triumphant Adventurer,3,main,Creature,WB
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,Archon of Emeria,2,main,Creature,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,Citystalker Connoisseur,4,main,Creature,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Yimin Zhi,6,Skyclave Apparition,4,main,Creature,W
@@ -21701,7 +21701,7 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jim Davis,7,Ni
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jim Davis,7,Sorin the Mirthless,1,side,Legendary Planeswalker,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jim Davis,7,Soul Transfer,1,side,Sorcery,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Jim Davis,7,The Meathook Massacre,3,side,Legendary Enchantment,B
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,A-Dungeon Descent,1,main,Land,
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Dungeon Descent,1,main,Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Brightclimb Pathway,4,main,Land // Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Forsaken Crossroads,4,main,Land,
@@ -21711,7 +21711,7 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Pl
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Shattered Sanctum,4,main,Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Swamp,1,main,Basic Land,
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,"Takenuma, Abandoned Mire",1,main,Legendary Land,
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,A-Triumphant Adventurer,4,main,Creature,WB
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Triumphant Adventurer,4,main,Creature,WB
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Archon of Emeria,4,main,Creature,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Citystalker Connoisseur,4,main,Creature,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,"Liesa, Forgotten Archangel",2,main,Legendary Creature,WB
@@ -21724,7 +21724,7 @@ champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,In
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,March of Otherworldly Light,1,main,Instant,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Power Word Kill,1,main,Instant,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Vanishing Verse,2,main,Instant,WB
-champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,A-Precipitous Drop,3,main,Enchantment,B
+champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Precipitous Drop,3,main,Enchantment,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,The Wandering Emperor,2,main,Legendary Planeswalker,W
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Bloodchief's Thirst,2,side,Sorcery,B
 champ-neo,Neon Dynasty Championship,0,2022-03-12,MTGO NEO alchemy,Brent Vos,8,Concealing Curtains,1,side,Creature,B
