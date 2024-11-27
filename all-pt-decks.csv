@@ -22641,3 +22641,1558 @@ ptmom,Pro Tour March of the Machine,1,2023-05-05,MOM standard,Yiwen Chen,8,Loran
 ptmom,Pro Tour March of the Machine,1,2023-05-05,MOM standard,Yiwen Chen,8,Negate,1,side,Instant,U
 ptmom,Pro Tour March of the Machine,1,2023-05-05,MOM standard,Yiwen Chen,8,Surge of Salvation,2,side,Instant,W
 ptmom,Pro Tour March of the Machine,1,2023-05-05,MOM standard,Yiwen Chen,8,Tocasia's Welcome,3,side,Enchantment,W
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Blackcleave Cliffs,3,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Blood Crypt,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Bloodstained Mire,2,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Marsh Flats,2,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Polluted Delta,3,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Swamp,3,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Verdant Catacombs,2,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Dauthi Voidwalker,4,main,Creature,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Fury,4,main,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Grief,4,main,Creature,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,"Kroxa, Titan of Death's Hunger",1,main,Legendary Creature,BR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Orcish Bowmasters,4,main,Creature,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,"Ragavan, Nimble Pilferer",4,main,Legendary Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Fatal Push,2,main,Instant,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Feign Death,3,main,Instant,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Terminate,2,main,Instant,BR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Thoughtseize,4,main,Sorcery,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Undying Malice,3,main,Instant,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Blood Moon,1,main,Enchantment,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Fable of the Mirror-Breaker,4,main,Enchantment,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Blood Moon,2,side,Enchantment,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Chalice of the Void,3,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Engineered Explosives,2,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,"Kroxa, Titan of Death's Hunger",1,side,Legendary Creature,BR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Lightning Bolt,2,side,Instant,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Nihil Spellbomb,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Pithing Needle,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,"Sheoldred, the Apocalypse",2,side,Legendary Creature,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Jake Beardsley,1,Terminate,1,side,Instant,BR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,"Boseiju, Who Endures",2,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Forest,3,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Gemstone Caverns,1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Urza's Mine,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Urza's Power Plant,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Urza's Tower,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,"Ulamog, the Ceaseless Hunger",2,main,Legendary Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Wurmcoil Engine,2,main,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Ancient Stirrings,4,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Sylvan Scrying,4,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Warping Wail,2,main,Instant,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Chromatic Sphere,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Chromatic Star,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Expedition Map,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Karn Liberated,2,main,Legendary Planeswalker,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,"Karn, the Great Creator",4,main,Legendary Planeswalker,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Oblivion Stone,3,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Relic of Progenitus,3,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,The One Ring,3,main,Legendary Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,"Ugin, the Spirit Dragon",1,main,Legendary Planeswalker,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,"Jegantha, the Wellspring",1,side,Legendary Creature,RG
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Chalice of the Void,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Cityscape Leveler,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Engineered Explosives,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Ensnaring Bridge,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Haywire Mite,2,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Liquimetal Coating,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Oblivion Stone,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Pyrite Spellbomb,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Sundering Titan,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,The One Ring,1,side,Legendary Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,The Stone Brain,1,side,Legendary Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Tormod's Crypt,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Christian Calcano,2,Walking Ballista,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,"Boseiju, Who Endures",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Forest,3,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Urza's Mine,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Urza's Power Plant,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Urza's Saga,2,main,Enchantment Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Urza's Tower,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,"Ulamog, the Ceaseless Hunger",2,main,Legendary Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Walking Ballista,1,main,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Wurmcoil Engine,2,main,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Ancient Stirrings,4,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Dismember,3,main,Instant,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Sylvan Scrying,3,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Warping Wail,1,main,Instant,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Chromatic Sphere,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Chromatic Star,1,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Expedition Map,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Karn Liberated,1,main,Legendary Planeswalker,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,"Karn, the Great Creator",4,main,Legendary Planeswalker,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Oblivion Stone,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Relic of Progenitus,3,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Talisman of Resilience,1,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,The One Ring,4,main,Legendary Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Chalice of the Void,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Cityscape Leveler,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Engineered Explosives,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Ensnaring Bridge,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Grafdigger's Cage,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Haywire Mite,2,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Liquimetal Coating,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Phyrexian Metamorph,1,side,Artifact Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Pithing Needle,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Sundering Titan,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,The Stone Brain,1,side,Legendary Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Tormod's Crypt,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Walking Ballista,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Simon Nielsen,3,Wurmcoil Engine,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Boros Garrison,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,"Boseiju, Who Endures",3,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Crumbling Vestige,2,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Forest,3,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Gemstone Caverns,1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Golgari Rot Farm,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,"Otawara, Soaring City",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Selesnya Sanctuary,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Simic Growth Chamber,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Slayers' Stronghold,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,"Sunhome, Fortress of the Legion",1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,The Mycosynth Gardens,2,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Tolaria West,2,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Urza's Saga,4,main,Enchantment Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,"Valakut, the Molten Pinnacle",2,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Vesuva,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Arboreal Grazer,4,main,Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,"Azusa, Lost but Seeking",2,main,Legendary Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Cultivator Colossus,1,main,Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Dryad of the Ilysian Grove,4,main,Enchantment Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Primeval Titan,4,main,Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Summoner's Pact,4,main,Instant,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Amulet of Vigor,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Expedition Map,1,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,The One Ring,4,main,Legendary Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Bojuka Bog,1,side,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Dismember,3,side,Instant,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Endurance,1,side,Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Engineered Explosives,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Generous Ent,1,side,Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Khalni Garden,1,side,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Pact of Negation,1,side,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Radiant Fountain,1,side,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Swan Song,1,side,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Tear Asunder,2,side,Instant,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Tormod's Crypt,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Dominic Harvey,4,Wurmcoil Engine,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,"Boseiju, Who Endures",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Forest,3,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Urza's Mine,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Urza's Power Plant,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Urza's Saga,2,main,Enchantment Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Urza's Tower,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,"Ulamog, the Ceaseless Hunger",2,main,Legendary Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Walking Ballista,1,main,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Wurmcoil Engine,2,main,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Ancient Stirrings,4,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Dismember,3,main,Instant,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Sylvan Scrying,3,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Warping Wail,1,main,Instant,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Chromatic Sphere,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Chromatic Star,1,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Expedition Map,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Karn Liberated,1,main,Legendary Planeswalker,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,"Karn, the Great Creator",4,main,Legendary Planeswalker,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Oblivion Stone,4,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Relic of Progenitus,3,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Talisman of Resilience,1,main,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,The One Ring,4,main,Legendary Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Chalice of the Void,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Cityscape Leveler,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Engineered Explosives,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Ensnaring Bridge,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Grafdigger's Cage,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Haywire Mite,2,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Liquimetal Coating,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Phyrexian Metamorph,1,side,Artifact Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Pithing Needle,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Sundering Titan,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,The Stone Brain,1,side,Legendary Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Tormod's Crypt,1,side,Artifact,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Walking Ballista,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Javier Dominguez,5,Wurmcoil Engine,1,side,Artifact Creature,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,"Boseiju, Who Endures",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Breeding Pool,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Fiery Islet,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Forest,1,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Gemstone Caverns,2,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Island,2,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Ketria Triome,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Misty Rainforest,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Mountain,1,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,"Otawara, Soaring City",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Steam Vents,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Stomping Ground,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Wooded Foothills,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Fury,1,main,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Murktide Regent,2,main,Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Shardless Agent,4,main,Artifact Creature,UG
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Subtlety,4,main,Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Crashing Footfalls,4,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Dead // Gone,4,main,Instant // Instant,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Fire // Ice,4,main,Instant // Instant,UR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Force of Negation,4,main,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Lórien Revealed,4,main,Sorcery,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Mystical Dispute,2,main,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Prismari Command,2,main,Instant,UR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Violent Outburst,4,main,Instant,RG
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Blood Moon,1,side,Enchantment,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,"Boseiju, Who Endures",1,side,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Commandeer,1,side,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Endurance,4,side,Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Force of Vigor,2,side,Instant,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Fury,2,side,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Magus of the Moon,1,side,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Mystical Dispute,1,side,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Marco Del Pivo,6,Obsidian Charmaw,2,side,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,"Boseiju, Who Endures",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Breeding Pool,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Fiery Islet,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Forest,1,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Gemstone Caverns,2,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Island,2,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Ketria Triome,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Misty Rainforest,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,"Otawara, Soaring City",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Steam Vents,2,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Stomping Ground,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Wooded Foothills,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Brazen Borrower,1,main,Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Fury,2,main,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Murktide Regent,1,main,Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Shardless Agent,4,main,Artifact Creature,UG
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Subtlety,4,main,Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Crashing Footfalls,4,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Dead // Gone,4,main,Instant // Instant,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Fire // Ice,4,main,Instant // Instant,UR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Force of Negation,4,main,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Lórien Revealed,4,main,Sorcery,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Mystical Dispute,3,main,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Violent Outburst,4,main,Instant,RG
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Brazen Borrower,1,side,Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Commandeer,2,side,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Endurance,4,side,Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Force of Vigor,2,side,Instant,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Fury,2,side,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Magus of the Moon,1,side,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Mystical Dispute,1,side,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Stefano Vinci,7,Questing Beast,2,side,Legendary Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,"Boseiju, Who Endures",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Breeding Pool,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Forest,2,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Gemstone Caverns,2,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Island,2,main,Basic Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Ketria Triome,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Misty Rainforest,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,"Otawara, Soaring City",1,main,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Scalding Tarn,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Steam Vents,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Stomping Ground,1,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Wooded Foothills,4,main,Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Murktide Regent,1,main,Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Questing Beast,2,main,Legendary Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Shardless Agent,4,main,Artifact Creature,UG
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Subtlety,2,main,Creature,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Crashing Footfalls,4,main,Sorcery,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Dead // Gone,4,main,Instant // Instant,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Dismember,2,main,Instant,B
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Fire // Ice,4,main,Instant // Instant,UR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Force of Negation,4,main,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Lórien Revealed,4,main,Sorcery,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Mystical Dispute,4,main,Instant,U
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Violent Outburst,4,main,Instant,RG
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Blood Moon,2,side,Enchantment,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,"Boseiju, Who Endures",1,side,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Endurance,4,side,Creature,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Flame of Anor,3,side,Instant,UR
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Force of Vigor,1,side,Instant,G
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Fury,2,side,Creature,R
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Gemstone Caverns,1,side,Legendary Land,
+ptltr,Pro Tour Lord of the Rings,1,2023-07-28,modern,Kai Budde,8,Subtlety,1,side,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Caves of Koilos,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Darkslick Shores,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Eiganjo, Seat of the Empire",2,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Otawara, Soaring City",3,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Plaza of Heroes,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Seachrome Coast,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Shattered Sanctum,1,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Shipwreck Marsh,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Swamp,1,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Takenuma, Abandoned Mire",2,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Dennick, Pious Apprentice",4,main,Legendary Creature,WU
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Ertai Resurrected,2,main,Legendary Creature,UB
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Faerie Mastermind,3,main,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Lord Skitter, Sewer King",2,main,Legendary Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Raffine, Scheming Seer",4,main,Legendary Creature,WUB
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Rona, Herald of Invasion",2,main,Legendary Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Sheoldred, the Apocalypse",4,main,Legendary Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Skrelv, Defector Mite",4,main,Legendary Artifact Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Thalia, Guardian of Thraben",4,main,Legendary Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Go for the Throat,3,main,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Make Disappear,1,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,"Ao, the Dawn Sky",2,side,Legendary Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Blot Out,1,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Cut Down,4,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Disdainful Stroke,2,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Negate,1,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Surge of Salvation,1,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Jean-Emmanuel Depraz,1,Wedding Announcement,4,side,Enchantment // Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Adarkar Wastes,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Darkslick Shores,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Deserted Beach,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,"Otawara, Soaring City",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Plains,1,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Plaza of Heroes,1,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Raffine's Tower,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Restless Fortress,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Seachrome Coast,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Shattered Sanctum,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Underground River,3,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,"Dennick, Pious Apprentice",4,main,Legendary Creature,WU
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,"Lord Skitter, Sewer King",2,main,Legendary Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,"Raffine, Scheming Seer",4,main,Legendary Creature,WUB
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,"Sheoldred, the Apocalypse",3,main,Legendary Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Cut Down,2,main,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Go for the Throat,4,main,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Make Disappear,4,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,The Wandering Emperor,3,main,Legendary Planeswalker,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Virtue of Loyalty,4,main,Enchantment // Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Wedding Announcement,4,main,Enchantment // Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Anoint with Affliction,1,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Cut Down,2,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Destroy Evil,2,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Disdainful Stroke,3,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Elspeth's Smite,2,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Farewell,1,side,Sorcery,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Kaito Shizuki,2,side,Legendary Planeswalker,UB
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Kazune Kosaka,2,Negate,2,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Adarkar Wastes,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Deserted Beach,1,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,"Eiganjo, Seat of the Empire",2,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Fortified Beachhead,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Mirrex,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,"Otawara, Soaring City",2,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Plains,4,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Seachrome Coast,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Secluded Courtyard,1,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,"Harbin, Vanguard Aviator",3,main,Legendary Creature,WU
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Knight-Errant of Eos,4,main,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Lunarch Veteran,4,main,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Recruitment Officer,4,main,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Regal Bunnicorn,2,main,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Resolute Reinforcements,4,main,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Werefox Bodyguard,1,main,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Yotian Frontliner,2,main,Artifact Creature,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Zephyr Sentinel,4,main,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Make Disappear,4,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Wedding Announcement,4,main,Enchantment // Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Destroy Evil,2,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Elspeth's Smite,2,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Lantern Flare,2,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Protect the Negotiators,3,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Regal Bunnicorn,1,side,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,The Wandering Emperor,2,side,Legendary Planeswalker,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Simon Nielsen,3,Tocasia's Welcome,3,side,Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,"Boseiju, Who Endures",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Deathcap Glade,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Forest,4,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Llanowar Wastes,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Mishra's Foundry,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Restless Cottage,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Swamp,6,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Blossoming Tortoise,3,main,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Bramble Familiar,1,main,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Glissa Sunslayer,3,main,Legendary Creature,BG
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Graveyard Trespasser,2,main,Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Misery's Shadow,1,main,Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Mosswood Dreadknight,4,main,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Sentinel of Lost Lore,1,main,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,"Sheoldred, the Apocalypse",3,main,Legendary Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Tenacious Underdog,1,main,Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Cut Down,2,main,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Duress,2,main,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Gix's Command,1,main,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Go for the Throat,3,main,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Tear Asunder,1,main,Instant,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Liliana of the Veil,3,main,Legendary Planeswalker,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,"Nissa, Ascended Animist",1,main,Legendary Planeswalker,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Virtue of Persistence,2,main,Enchantment // Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,"Ashiok, Wicked Manipulator",1,side,Legendary Planeswalker,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Cut Down,2,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Duress,2,side,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Gix's Command,1,side,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Go for the Throat,1,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,"Nissa, Ascended Animist",1,side,Legendary Planeswalker,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Obstinate Baloth,1,side,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Path of Peril,2,side,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Phyrexian Arena,2,side,Enchantment,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Rankle's Prank,1,side,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Anthony Lee,4,Tear Asunder,1,side,Instant,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,"Boseiju, Who Endures",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Forest,4,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Island,1,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Jetmir's Garden,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Mirrex,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Plains,2,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Spara's Headquarters,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Swamp,3,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Ziatora's Proving Ground,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Archangel of Wrath,4,main,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,"Atraxa, Grand Unifier",3,main,Legendary Creature,WUBG
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Topiary Stomper,4,main,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Go for the Throat,1,main,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Herd Migration,4,main,Sorcery,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Sunfall,4,main,Sorcery,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Courier's Briefcase,2,main,Artifact,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Invasion of Zendikar,4,main,Battle,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Leyline Binding,4,main,Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Up the Beanstalk,2,main,Enchantment,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Virtue of Persistence,3,main,Enchantment // Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Anoint with Affliction,2,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Chrome Host Seedshark,1,side,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Destroy Evil,1,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Disdainful Stroke,3,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Duress,2,side,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Elspeth's Smite,1,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Knockout Blow,2,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Negate,1,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Obstinate Baloth,1,side,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Reid Duke,5,Up the Beanstalk,1,side,Enchantment,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,"Boseiju, Who Endures",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Dreamroot Cascade,3,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Island,1,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Jetmir's Garden,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Mirrex,1,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,"Otawara, Soaring City",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Plains,6,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Raffine's Tower,3,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Spara's Headquarters,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Yavimaya Coast,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Horned Loch-Whale,3,main,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Brokers Charm,1,main,Instant,WUG
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Dissipate,1,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Lay Down Arms,4,main,Sorcery,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Make Disappear,2,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,March of Otherworldly Light,2,main,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Memory Deluge,1,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Negate,1,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Sunfall,3,main,Sorcery,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Syncopate,3,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Leyline Binding,4,main,Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,The Wandering Emperor,4,main,Legendary Planeswalker,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Up the Beanstalk,4,main,Enchantment,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Chrome Host Seedshark,3,side,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Destroy Evil,1,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Disdainful Stroke,2,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Elspeth's Smite,1,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Hullbreaker Horror,1,side,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Knockout Blow,2,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Memory Deluge,1,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Negate,2,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,Sunset Revelry,1,side,Sorcery,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Gregory Orange,6,The Eternal Wanderer,1,side,Legendary Planeswalker,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,"Boseiju, Who Endures",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Brushland,1,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Forest,4,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Island,1,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Jetmir's Garden,3,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Mirrex,1,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Mountain,1,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Plains,3,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Raffine's Tower,1,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Spara's Headquarters,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Swamp,1,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Ziatora's Proving Ground,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Archangel of Wrath,4,main,Creature,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,"Atraxa, Grand Unifier",2,main,Legendary Creature,WUBG
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Chrome Host Seedshark,2,main,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Topiary Stomper,4,main,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Herd Migration,3,main,Sorcery,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Sunfall,4,main,Sorcery,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Courier's Briefcase,4,main,Artifact,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Invasion of Zendikar,3,main,Battle,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Leyline Binding,4,main,Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,"Nissa, Ascended Animist",1,main,Legendary Planeswalker,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Ossification,2,main,Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Virtue of Persistence,2,main,Enchantment // Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Depopulate,1,side,Sorcery,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Disdainful Stroke,3,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Go for the Throat,1,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Negate,2,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Sunset Revelry,2,side,Sorcery,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,The Wandering Emperor,2,side,Legendary Planeswalker,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Tranquil Frillback,2,side,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Willy Edel,7,Tyrranax Rex,2,side,Creature,G
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Adarkar Wastes,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Caves of Koilos,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Darkslick Shores,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Island,1,main,Basic Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,"Otawara, Soaring City",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Raffine's Tower,3,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Restless Fortress,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Seachrome Coast,3,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Shattered Sanctum,4,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Underground River,2,main,Land,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,"Dennick, Pious Apprentice",4,main,Legendary Creature,WU
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Ertai Resurrected,2,main,Legendary Creature,UB
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Faerie Mastermind,4,main,Creature,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,"Lord Skitter, Sewer King",1,main,Legendary Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,"Raffine, Scheming Seer",4,main,Legendary Creature,WUB
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,"Sheoldred, the Apocalypse",1,main,Legendary Creature,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Cut Down,3,main,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Go for the Throat,4,main,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Make Disappear,3,main,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,The Wandering Emperor,3,main,Legendary Planeswalker,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Virtue of Loyalty,1,main,Enchantment // Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Wedding Announcement,4,main,Enchantment // Enchantment,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Anoint with Affliction,1,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Cut Down,1,side,Instant,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Destroy Evil,2,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Disdainful Stroke,2,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Duress,2,side,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Gix's Command,1,side,Sorcery,B
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Kaito Shizuki,1,side,Legendary Planeswalker,UB
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Knockout Blow,1,side,Instant,W
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Negate,1,side,Instant,U
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,Razorlash Transmogrant,2,side,Artifact Creature,
+2023wc,World Championship XXIX,0,2023-09-22,WOE standard,Lorenzo Terlizzi,8,"Sheoldred, the Apocalypse",1,side,Legendary Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Blackcleave Cliffs,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Blightstep Pathway,2,main,Land // Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Blood Crypt,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Cavern of Souls,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Hive of the Eye Tyrant,2,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Mutavault,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,"Sokenzan, Crucible of Defiance",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Sulfurous Springs,2,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Swamp,2,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Bloodtithe Harvester,4,main,Creature,BR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Dusk Legion Zealot,2,main,Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Preacher of the Schism,3,main,Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,"Sheoldred, the Apocalypse",1,main,Legendary Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Vein Ripper,4,main,Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Bitter Triumph,1,main,Instant,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Duress,2,main,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Fatal Push,4,main,Instant,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Thoughtseize,4,main,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Fable of the Mirror-Breaker,4,main,Enchantment,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Smuggler's Copter,2,main,Artifact,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,"Sorin, Imperious Bloodlord",4,main,Legendary Planeswalker,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Bitter Triumph,1,side,Instant,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Damping Sphere,2,side,Artifact,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Duress,2,side,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,"Kalitas, Traitor of Ghet",1,side,Legendary Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Krenko's Buzzcrusher,1,side,Artifact Creature,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Leyline of the Void,4,side,Enchantment,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Liliana of the Veil,1,side,Legendary Planeswalker,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Path of Peril,2,side,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Seth Manfield,1,Rending Volley,1,side,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Battlefield Forge,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Inspiring Vantage,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Mana Confluence,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Needleverge Pathway,3,main,Land // Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Plains,1,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Sacred Foundry,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Favored Hoplite,4,main,Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Illuminator Virtuoso,4,main,Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Monastery Swiftspear,4,main,Creature,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Tenth District Legionnaire,4,main,Creature,WR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Ancestral Anger,4,main,Sorcery,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Defiant Strike,4,main,Instant,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Gods Willing,1,main,Instant,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Homestead Courage,4,main,Sorcery,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Loran's Escape,4,main,Instant,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Monstrous Rage,4,main,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Reckless Rage,2,main,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Sejiri Shelter,1,main,Instant // Land,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Spikefield Hazard,2,main,Instant // Land,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,"Jegantha, the Wellspring",1,side,Legendary Creature,RG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Damping Sphere,1,side,Artifact,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Get Lost,1,side,Instant,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Light of Hope,2,side,Instant,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Reckless Rage,2,side,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Rending Volley,2,side,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Showdown of the Skalds,4,side,Enchantment,WR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,"Sokenzan, Crucible of Defiance",1,side,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Simon Nielsen,2,Torch the Tower,1,side,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Blooming Marsh,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,"Boseiju, Who Endures",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Godless Shrine,2,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Mana Confluence,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Overgrown Tomb,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Plains,1,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Razorverge Thicket,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Scattered Groves,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Temple Garden,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Amalia Benavides Aguirre,4,main,Legendary Creature,WB
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Cenote Scout,2,main,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Extraction Specialist,1,main,Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Fauna Shaman,3,main,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Haywire Mite,1,main,Artifact Creature,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Lunarch Veteran,3,main,Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Prosperous Innkeeper,4,main,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Selfless Savior,2,main,Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Sentinel of the Nameless City,1,main,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Skyclave Apparition,1,main,Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Wildgrowth Walker,4,main,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Chord of Calling,4,main,Instant,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Collected Company,2,main,Instant,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Return to the Ranks,4,main,Sorcery,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Thoughtseize,1,main,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Aetherflux Reservoir,1,main,Artifact,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Archon of Emeria,1,side,Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Fatal Push,2,side,Instant,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Knight of Dusk's Shadow,1,side,Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Loran of the Third Path,2,side,Legendary Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Painful Truths,1,side,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Selfless Savior,1,side,Creature,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Sentinel of the Nameless City,2,side,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Tamiyo's Safekeeping,2,side,Instant,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,Thoughtseize,2,side,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Christoffer Larsen,3,"Thrun, Breaker of Silence",1,side,Legendary Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,"Boseiju, Who Endures",3,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Botanical Sanctum,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Breeding Pool,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Forest,1,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Hedge Maze,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Lair of the Hydra,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Lotus Field,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,"Otawara, Soaring City",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Temple of Mystery,2,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Thespian's Stage,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Yavimaya Coast,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Zagoth Triome,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Arboreal Grazer,3,main,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Fae of Wishes,1,main,Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,"Lier, Disciple of the Drowned",1,main,Legendary Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Vizier of Tumbling Sands,4,main,Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Voyaging Satyr,2,main,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Archdruid's Charm,3,main,Instant,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Bala Ged Recovery,3,main,Sorcery // Land,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Behold the Beyond,1,main,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Dark Petition,1,main,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Emergent Ultimatum,3,main,Sorcery,UBG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Hidden Strings,4,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Impulse,2,main,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Pore Over the Pages,4,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Sylvan Scrying,4,main,Sorcery,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Omniscience,1,main,Enchantment,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Approach of the Second Sun,1,side,Sorcery,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,"Atraxa, Grand Unifier",1,side,Legendary Creature,WUBG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Dragonlord Dromoka,1,side,Legendary Creature,WG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Elder Gargaroth,1,side,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Emergent Ultimatum,1,side,Sorcery,UBG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Leyline of Sanctity,1,side,Enchantment,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Mystical Dispute,2,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Narset's Reversal,1,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Sunfall,1,side,Sorcery,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Temporary Lockdown,3,side,Enchantment,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,Voyaging Satyr,1,side,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Mingyang Chen,4,"Zacama, Primal Calamity",1,side,Legendary Creature,WRG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Blackcleave Cliffs,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Blightstep Pathway,2,main,Land // Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Blood Crypt,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Cavern of Souls,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Hive of the Eye Tyrant,2,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Mutavault,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Sulfurous Springs,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Swamp,3,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Bloodtithe Harvester,4,main,Creature,BR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Dusk Legion Zealot,4,main,Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Preacher of the Schism,3,main,Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Vein Ripper,4,main,Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Bitter Triumph,1,main,Instant,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Duress,1,main,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Fatal Push,4,main,Instant,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Thoughtseize,4,main,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Fable of the Mirror-Breaker,4,main,Enchantment,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Smuggler's Copter,2,main,Artifact,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,"Sorin, Imperious Bloodlord",4,main,Legendary Planeswalker,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Bitter Triumph,1,side,Instant,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Damping Sphere,3,side,Artifact,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Duress,2,side,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,"Kalitas, Traitor of Ghet",1,side,Legendary Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Leyline of the Void,4,side,Enchantment,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Liliana of the Veil,1,side,Legendary Planeswalker,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,Path of Peril,2,side,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Samuel Pardee,5,"Sheoldred, the Apocalypse",1,side,Legendary Creature,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,"Boseiju, Who Endures",2,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Botanical Sanctum,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Forest,2,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Hedge Maze,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Lair of the Hydra,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Lotus Field,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,"Otawara, Soaring City",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Temple of Mystery,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Thespian's Stage,3,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Yavimaya Coast,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Arboreal Grazer,4,main,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Dragonlord Dromoka,1,main,Legendary Creature,WG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,"Lier, Disciple of the Drowned",1,main,Legendary Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Vizier of Tumbling Sands,4,main,Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Archdruid's Charm,4,main,Instant,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Bala Ged Recovery,3,main,Sorcery // Land,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Dark Petition,1,main,Sorcery,B
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Emergent Ultimatum,3,main,Sorcery,UBG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Hidden Strings,4,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Impulse,2,main,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Pore Over the Pages,4,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Sylvan Scrying,4,main,Sorcery,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,"Chandra, Hope's Beacon",1,main,Legendary Planeswalker,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Omniscience,1,main,Enchantment,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,"Atraxa, Grand Unifier",1,side,Legendary Creature,WUBG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Krenko's Buzzcrusher,1,side,Artifact Creature,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,"Kutzil, Malamet Exemplar",1,side,Legendary Creature,WG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Mystical Dispute,2,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Narset's Reversal,1,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Silence,1,side,Instant,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Soul Partition,1,side,Instant,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Temporary Lockdown,3,side,Enchantment,W
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Unauthorized Exit,1,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,Voyaging Satyr,2,side,Creature,G
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Alex Friedrichsen,6,"Zacama, Primal Calamity",1,side,Legendary Creature,WRG
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Hall of Storm Giants,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Island,3,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,"Otawara, Soaring City",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Riverglide Pathway,4,main,Land // Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Spirebluff Canal,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Steam Vents,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Stormcarved Coast,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Arclight Phoenix,4,main,Creature,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Brazen Borrower,1,main,Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Ledger Shredder,4,main,Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Picklock Prankster,4,main,Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Consider,4,main,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Fiery Impulse,3,main,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Galvanic Iteration,1,main,Instant,UR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Jwari Disruption,1,main,Instant // Land,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Lightning Axe,3,main,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Opt,4,main,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Prismari Command,2,main,Instant,UR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Sleight of Hand,3,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Spell Pierce,2,main,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Temporal Trespass,1,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Torch the Tower,1,main,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Treasure Cruise,4,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Aether Gust,1,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Alpine Moon,1,side,Enchantment,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Anger of the Gods,2,side,Sorcery,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,"Ashiok, Dream Render",1,side,Legendary Planeswalker,UB
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Crackling Drake,2,side,Creature,UR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Fable of the Mirror-Breaker,1,side,Enchantment,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Mystical Dispute,2,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Narset's Reversal,1,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Negate,1,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Unlicensed Hearse,1,side,Artifact,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Adam Edelson,7,Young Pyromancer,2,side,Creature,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Hall of Storm Giants,2,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Island,2,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Mountain,1,main,Basic Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,"Otawara, Soaring City",1,main,Legendary Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Riverglide Pathway,4,main,Land // Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Spirebluff Canal,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Steam Vents,4,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Stormcarved Coast,1,main,Land,
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Arclight Phoenix,4,main,Creature,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Ledger Shredder,4,main,Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Picklock Prankster,4,main,Creature,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Chart a Course,1,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Consider,4,main,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Fiery Impulse,4,main,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Galvanic Iteration,1,main,Instant,UR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Jwari Disruption,1,main,Instant // Land,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Lightning Axe,4,main,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Opt,4,main,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Sleight of Hand,3,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Spell Pierce,2,main,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Temporal Trespass,1,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Treasure Cruise,4,main,Sorcery,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Aether Gust,1,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Brotherhood's End,2,side,Sorcery,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Crackling Drake,3,side,Creature,UR
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Mystical Dispute,2,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Negate,2,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Rending Volley,1,side,Instant,R
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Test of Talents,1,side,Instant,U
+ptmkm,Pro Tour Murders at Karlov Manner,1,2024-02-23,pioneer,Jean-Emmanuel Depraz,8,Young Pyromancer,3,side,Creature,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,"Boseiju, Who Endures",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Cavern of Souls,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Forest,3,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Island,1,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Jetmir's Garden,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Plains,3,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Raffine's Tower,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Spara's Headquarters,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Swamp,1,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Ziatora's Proving Ground,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Archangel of Wrath,4,main,Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,"Atraxa, Grand Unifier",3,main,Legendary Creature,WUBG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Imodane's Recruiter,1,main,Creature,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Topiary Stomper,4,main,Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Cartographer's Survey,1,main,Sorcery,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Depopulate,3,main,Sorcery,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Glimpse the Core,1,main,Sorcery,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Herd Migration,4,main,Sorcery,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Long Goodbye,1,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Sunfall,3,main,Sorcery,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Leyline Binding,4,main,Enchantment,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Spelunking,2,main,Enchantment,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Up the Beanstalk,3,main,Enchantment,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Chrome Host Seedshark,2,side,Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Long Goodbye,3,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Negate,3,side,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,"Nissa, Ascended Animist",1,side,Legendary Planeswalker,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Rest in Peace,2,side,Enchantment,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Temporary Lockdown,2,side,Enchantment,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yoshihiko Ikawa,1,Tranquil Frillback,2,side,Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Adarkar Wastes,3,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Demolition Field,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Deserted Beach,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Field of Ruin,3,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Island,3,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Mirrex,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,"Otawara, Soaring City",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Plains,3,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Restless Anchorage,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Seachrome Coast,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Sunken Citadel,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Deduce,3,main,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Get Lost,1,main,Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Make Disappear,1,main,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,March of Otherworldly Light,4,main,Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Memory Deluge,4,main,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,No More Lies,4,main,Instant,WU
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Phantom Interference,2,main,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Sunfall,3,main,Sorcery,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Three Steps Ahead,4,main,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Temporary Lockdown,2,main,Enchantment,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,The Wandering Emperor,4,main,Legendary Planeswalker,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Boon-Bringer Valkyrie,1,side,Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Destroy Evil,2,side,Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Hullbreaker Horror,1,side,Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Negate,3,side,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Temporary Lockdown,2,side,Enchantment,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,The Filigree Sylex,1,side,Legendary Artifact,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Tishana's Tidebinder,3,side,Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Yuta Takahashi,2,Unlicensed Hearse,2,side,Artifact,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Battlefield Forge,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Cavern of Souls,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,"Eiganjo, Seat of the Empire",2,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Inspiring Vantage,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Mirrex,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Mountain,3,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Plains,3,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,"Sokenzan, Crucible of Defiance",2,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Imodane's Recruiter,4,main,Creature,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Knight-Errant of Eos,4,main,Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Novice Inspector,4,main,Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Resolute Reinforcements,4,main,Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Sanguine Evangelist,2,main,Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Voldaren Epicure,4,main,Creature,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Warden of the Inner Sky,4,main,Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Yotian Frontliner,1,main,Artifact Creature,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Gleeful Demolition,4,main,Sorcery,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Case of the Gateway Express,4,main,Enchantment,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Warleader's Call,3,main,Enchantment,WR
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Destroy Evil,2,side,Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,End the Festivities,2,side,Sorcery,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Get Lost,2,side,Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Invasion of Gobakhan,4,side,Battle,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Lithomantic Barrage,2,side,Sorcery,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Takumi Matsuura,3,Urabrask's Forge,3,side,Artifact,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Caves of Koilos,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Concealed Courtyard,3,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Darkslick Shores,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Deserted Beach,3,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Island,1,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,"Otawara, Soaring City",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Plains,1,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Raffine's Tower,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Restless Anchorage,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Shattered Sanctum,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Underground River,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,"Aclazotz, Deepest Betrayal",1,main,Legendary Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Deep-Cavern Bat,4,main,Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,"Dennick, Pious Apprentice",3,main,Legendary Creature,WU
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Faerie Mastermind,3,main,Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,"Raffine, Scheming Seer",4,main,Legendary Creature,WUB
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Cut Down,3,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Go for the Throat,4,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,No More Lies,3,main,Instant,WU
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,The Wandering Emperor,2,main,Legendary Planeswalker,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Virtue of Loyalty,3,main,Enchantment // Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Wedding Announcement,4,main,Enchantment // Enchantment,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,"Aclazotz, Deepest Betrayal",1,side,Legendary Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Cut Down,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Destroy Evil,1,side,Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Disdainful Stroke,1,side,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Long Goodbye,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Loran of the Third Path,1,side,Legendary Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Negate,2,side,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Pest Control,3,side,Sorcery,WB
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,The Wandering Emperor,1,side,Legendary Planeswalker,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Arne Huschenbeth,4,Tishana's Tidebinder,3,side,Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Boseiju, Who Endures",3,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Cavern of Souls,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Darkslick Shores,3,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Otawara, Soaring City",4,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Plaza of Heroes,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Restless Cottage,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Sulfurous Springs,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Sunken Citadel,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Swamp,1,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Takenuma, Abandoned Mire",4,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Xander's Lounge,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Ziatora's Proving Ground,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Ertai Resurrected,2,main,Legendary Creature,UB
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Honest Rutstein,3,main,Legendary Creature,BG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Inti, Seneschal of the Sun",4,main,Legendary Creature,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Rona, Herald of Invasion",4,main,Legendary Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Slogurk, the Overslime",4,main,Legendary Creature,UG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,The Goose Mother,2,main,Legendary Creature,UG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Titania, Voice of Gaea",2,main,Legendary Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Vial Smasher, Gleeful Grenadier",1,main,Legendary Creature,BR
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Cut Down,2,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Go for the Throat,3,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Relic of Legends,4,main,Artifact,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Aclazotz, Deepest Betrayal",1,side,Legendary Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Cut Down,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Duress,3,side,Sorcery,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Ertai Resurrected,1,side,Legendary Creature,UB
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Glistening Deluge,2,side,Sorcery,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Jace, the Perfected Mind",1,side,Legendary Planeswalker,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Liliana of the Veil,2,side,Legendary Planeswalker,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Long Goodbye,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Path of Peril,1,side,Sorcery,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,"Sheoldred, the Apocalypse",1,side,Legendary Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Rei Zhang,5,Turn the Earth,1,side,Instant,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Caves of Koilos,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Concealed Courtyard,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Darkslick Shores,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,"Eiganjo, Seat of the Empire",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,"Otawara, Soaring City",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Plains,1,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Raffine's Tower,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Restless Anchorage,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Seachrome Coast,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Shattered Sanctum,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,"Takenuma, Abandoned Mire",1,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Underground River,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,"Aclazotz, Deepest Betrayal",1,main,Legendary Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Deep-Cavern Bat,4,main,Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,"Dennick, Pious Apprentice",2,main,Legendary Creature,WU
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Duelist of the Mind,3,main,Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Faerie Mastermind,3,main,Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Preacher of the Schism,3,main,Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,"Raffine, Scheming Seer",4,main,Legendary Creature,WUB
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Tishana's Tidebinder,2,main,Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Cut Down,3,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Gix's Command,1,main,Sorcery,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Go for the Throat,4,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,No More Lies,3,main,Instant,WU
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,The Wandering Emperor,1,main,Legendary Planeswalker,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Blot Out,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Cut Down,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Destroy Evil,1,side,Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Disdainful Stroke,2,side,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Knockout Blow,1,side,Instant,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Long Goodbye,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Loran of the Third Path,1,side,Legendary Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Negate,2,side,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Pest Control,1,side,Sorcery,WB
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Rest in Peace,2,side,Enchantment,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,Shrouded Shepherd,1,side,Creature,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Lucas Duchow,6,The Wandering Emperor,1,side,Legendary Planeswalker,W
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Blackcleave Cliffs,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Blooming Marsh,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Boseiju, Who Endures",3,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Cavern of Souls,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Darkslick Shores,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Deathcap Glade,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Otawara, Soaring City",4,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Plaza of Heroes,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Swamp,1,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Takenuma, Abandoned Mire",4,main,Legendary Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Xander's Lounge,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Ziatora's Proving Ground,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Aclazotz, Deepest Betrayal",1,main,Legendary Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Ertai Resurrected,2,main,Legendary Creature,UB
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Honest Rutstein,3,main,Legendary Creature,BG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Inti, Seneschal of the Sun",4,main,Legendary Creature,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Rona, Herald of Invasion",4,main,Legendary Creature,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Slogurk, the Overslime",4,main,Legendary Creature,UG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Tinybones, the Pickpocket",1,main,Legendary Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Titania, Voice of Gaea",2,main,Legendary Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Vial Smasher, Gleeful Grenadier",1,main,Legendary Creature,BR
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Cut Down,2,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Go for the Throat,3,main,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Relic of Legends,4,main,Artifact,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Cut Down,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Duress,3,side,Sorcery,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Ertai Resurrected,1,side,Legendary Creature,UB
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Glistening Deluge,3,side,Sorcery,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Jace, the Perfected Mind",1,side,Legendary Planeswalker,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Liliana of the Veil,1,side,Legendary Planeswalker,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Long Goodbye,1,side,Instant,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Path of Peril,1,side,Sorcery,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,"Sheoldred, the Apocalypse",1,side,Legendary Creature,B
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Turn the Earth,1,side,Instant,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Jason Ye,7,Vorinclex,1,side,Legendary Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Brokers Hideout,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Cabaretti Courtyard,3,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Echoing Deeps,1,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Forest,6,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Island,6,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Maestros Theater,4,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Mountain,4,main,Basic Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Riveteers Overlook,2,main,Land,
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Aftermath Analyst,4,main,Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,"Nissa, Resurgent Animist",4,main,Legendary Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,"Shigeki, Jukai Visionary",1,main,Legendary Enchantment Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Fires of Victory,3,main,Instant,R
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Ill-Timed Explosion,4,main,Sorcery,UR
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Memory Deluge,4,main,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Worldsoul's Rage,3,main,Sorcery,RG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Spelunking,3,main,Enchantment,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Virtue of Strength,4,main,Enchantment // Sorcery,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,"Bonny Pall, Clearcutter",2,side,Legendary Creature,UG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Colossal Skyturtle,1,side,Enchantment Creature,UG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Doppelgang,1,side,Sorcery,UG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Negate,3,side,Instant,U
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Pick Your Poison,3,side,Sorcery,BG
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Titan of Industry,1,side,Creature,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Turn the Earth,2,side,Instant,G
+ptotj,Pro Tour Thunder Junction,1,2024-04-26,OTJ standard,Sean Goddard,8,Vampires' Vengeance,2,side,Instant,R
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,"Boseiju, Who Endures",2,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Breeding Pool,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Dryad Arbor,1,main,Land Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Forest,2,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Hallowed Fountain,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Hedge Maze,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Lush Portico,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Misty Rainforest,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,"Otawara, Soaring City",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Shifting Woodland,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Temple Garden,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Urza's Saga,4,main,Enchantment Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Waterlogged Grove,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Windswept Heath,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,"Yavimaya, Cradle of Growth",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,"Bristly Bill, Spine Sower",2,main,Legendary Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Delighted Halfling,4,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Endurance,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Haywire Mite,2,main,Artifact Creature,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,"Nadu, Winged Wisdom",4,main,Legendary Creature,UG
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Noble Hierarch,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Outrider en-Kor,1,main,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Springheart Nantuko,4,main,Enchantment Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Sylvan Safekeeper,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Wall of Roots,2,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Chord of Calling,4,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Summoner's Pact,2,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Shuko,4,main,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,The One Ring,2,main,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Burrenton Forge-Tender,1,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Dismember,1,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Drannith Magistrate,1,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Endurance,1,side,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Force of Vigor,1,side,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Shadowspear,1,side,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Soulless Jailer,1,side,Artifact Creature,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Spell Pierce,1,side,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Suncleanser,2,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,"Teferi, Time Raveler",2,side,Legendary Planeswalker,WU
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Veil of Summer,2,side,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Simon Nielsen,1,Volatile Stormdrake,1,side,Creature,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,"Boseiju, Who Endures",2,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Breeding Pool,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Dryad Arbor,1,main,Land Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Forest,2,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Hallowed Fountain,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Hedge Maze,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Island,1,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Lush Portico,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Misty Rainforest,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,"Otawara, Soaring City",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Temple Garden,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Urza's Saga,2,main,Enchantment Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Waterlogged Grove,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Windswept Heath,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,"Yavimaya, Cradle of Growth",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Delighted Halfling,4,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Endurance,2,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Haywire Mite,1,main,Artifact Creature,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,"Nadu, Winged Wisdom",4,main,Legendary Creature,UG
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Noble Hierarch,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Outrider en-Kor,1,main,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Springheart Nantuko,4,main,Enchantment Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Suncleanser,1,main,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Sylvan Safekeeper,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Volatile Stormdrake,1,main,Creature,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Wall of Roots,4,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Chord of Calling,4,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Summoner's Pact,2,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Shuko,4,main,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,"Teferi, Time Raveler",2,main,Legendary Planeswalker,WU
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Dismember,2,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Drannith Magistrate,2,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Endurance,1,side,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Skyclave Apparition,1,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Spell Pierce,2,side,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,The One Ring,2,side,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,"Titania, Protector of Argoth",1,side,Legendary Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Urza's Saga,1,side,Enchantment Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Samuel Pardee,2,Veil of Summer,3,side,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,"Boseiju, Who Endures",2,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Breeding Pool,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Dryad Arbor,1,main,Land Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Forest,2,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Hallowed Fountain,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Hedge Maze,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Lush Portico,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Misty Rainforest,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,"Otawara, Soaring City",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Shifting Woodland,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Temple Garden,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Urza's Saga,4,main,Enchantment Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Waterlogged Grove,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Windswept Heath,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,"Yavimaya, Cradle of Growth",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,"Bristly Bill, Spine Sower",2,main,Legendary Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Delighted Halfling,4,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Endurance,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Haywire Mite,2,main,Artifact Creature,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,"Nadu, Winged Wisdom",4,main,Legendary Creature,UG
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Noble Hierarch,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Outrider en-Kor,1,main,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Springheart Nantuko,4,main,Enchantment Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Sylvan Safekeeper,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Wall of Roots,2,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Chord of Calling,4,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Summoner's Pact,2,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Shuko,4,main,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,The One Ring,2,main,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Burrenton Forge-Tender,1,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Damping Sphere,2,side,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Dismember,1,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Drannith Magistrate,1,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Force of Vigor,1,side,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Shadowspear,1,side,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Suncleanser,2,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,"Teferi, Time Raveler",2,side,Legendary Planeswalker,WU
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Veil of Summer,2,side,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Vexing Bauble,1,side,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Eli Kassis,3,Volatile Stormdrake,1,side,Creature,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,"Boseiju, Who Endures",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Breeding Pool,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Dryad Arbor,1,main,Land Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Forest,2,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Island,1,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Marsh Flats,2,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Misty Rainforest,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Overgrown Tomb,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Pendelhaven,1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Swamp,1,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Temple Garden,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Undercity Sewers,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Underground Mortuary,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Verdant Catacombs,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Watery Grave,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,"Yavimaya, Cradle of Growth",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Delighted Halfling,4,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Endurance,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,"Nadu, Winged Wisdom",4,main,Legendary Creature,UG
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Orcish Bowmasters,4,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Outrider en-Kor,1,main,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Springheart Nantuko,4,main,Enchantment Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Sylvan Safekeeper,1,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Thassa's Oracle,1,main,Creature,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Wall of Roots,4,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Chord of Calling,4,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Summoner's Pact,3,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Thoughtseize,1,main,Sorcery,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Shuko,4,main,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Drannith Magistrate,1,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Fatal Push,3,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Gemstone Caverns,1,side,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,"Grist, the Hunger Tide",1,side,Legendary Planeswalker,BG
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Haywire Mite,1,side,Artifact Creature,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Reclamation Sage,1,side,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,"Sheoldred, the Apocalypse",1,side,Legendary Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,The One Ring,3,side,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Thoughtseize,2,side,Sorcery,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Daniel Goetschel,4,Volatile Stormdrake,1,side,Creature,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Bloodstained Mire,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Castle Locthwain,3,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Marsh Flats,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Phyrexian Tower,1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Polluted Delta,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Raucous Theater,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Swamp,7,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,"Urborg, Tomb of Yawgmoth",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Verdant Catacombs,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Boggart Trawler,1,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Dauthi Voidwalker,2,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Grief,4,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Orcish Bowmasters,4,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,"Sheoldred, the Apocalypse",3,main,Legendary Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Sorin of House Markov,3,main,Legendary Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Cling to Dust,1,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Fatal Push,4,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Fell the Profane,2,main,Instant // Land,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Malakir Rebirth,3,main,Instant // Land,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,March of Wretched Sorrow,3,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Not Dead After All,1,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Soul Spike,4,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Thoughtseize,4,main,Sorcery,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Necrodominance,4,main,Legendary Enchantment,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Break the Ice,3,side,Sorcery,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Collective Brutality,1,side,Sorcery,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Damping Sphere,2,side,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Pithing Needle,2,side,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Sheoldred's Edict,2,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Surgical Extraction,3,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Noah Ma,5,Toxic Deluge,2,side,Sorcery,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,"Boseiju, Who Endures",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Breeding Pool,2,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Dryad Arbor,1,main,Land Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Forest,1,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Hedge Maze,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Island,1,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Khalni Garden,3,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Misty Rainforest,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Shifting Woodland,2,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Temple Garden,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Urza's Saga,4,main,Enchantment Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Windswept Heath,3,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,"Yavimaya, Cradle of Growth",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Arboreal Grazer,3,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Delighted Halfling,2,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Drannith Magistrate,1,main,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Endurance,2,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Haywire Mite,1,main,Artifact Creature,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,"Nadu, Winged Wisdom",4,main,Legendary Creature,UG
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Outrider en-Kor,1,main,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Springheart Nantuko,4,main,Enchantment Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Sylvan Safekeeper,2,main,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,"Venser, Shaper Savant",1,main,Legendary Creature,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Volatile Stormdrake,1,main,Creature,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Chord of Calling,4,main,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Malevolent Rumble,4,main,Sorcery,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Shuko,3,main,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Springleaf Drum,1,main,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,The One Ring,1,main,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Consign to Memory,3,side,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Dismember,2,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Drannith Magistrate,1,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Force of Vigor,2,side,Instant,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Reclamation Sage,1,side,Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Suncleanser,1,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,Swan Song,2,side,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,The One Ring,2,side,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Jason Ye,6,"Titania, Protector of Argoth",1,side,Legendary Creature,G
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Arid Mesa,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Elegant Parlor,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Flooded Strand,4,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Hallowed Fountain,2,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Island,1,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Meticulous Archive,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,"Minamo, School at Water's Edge",1,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Monumental Henge,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Mountain,1,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Mystic Gate,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Plains,1,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Scalding Tarn,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Steam Vents,2,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Thundering Falls,1,main,Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,"Phlage, Titan of Fire's Fury",3,main,Legendary Creature,WR
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Subtlety,4,main,Creature,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Counterspell,4,main,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Force of Negation,4,main,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Galvanic Discharge,4,main,Instant,R
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Invert Polarity,1,main,Instant,UR
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Lórien Revealed,2,main,Sorcery,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Spell Snare,1,main,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Supreme Verdict,1,main,Sorcery,WU
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Tune the Narrative,3,main,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Wrath of the Skies,3,main,Sorcery,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Dress Down,2,main,Enchantment,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,"Teferi, Time Raveler",2,main,Legendary Planeswalker,WU
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,The One Ring,4,main,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Celestial Purge,2,side,Instant,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Commandeer,1,side,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Consign to Memory,3,side,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Drannith Magistrate,3,side,Creature,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Invert Polarity,1,side,Instant,UR
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Mystical Dispute,1,side,Instant,U
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,"Phlage, Titan of Fire's Fury",1,side,Legendary Creature,WR
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Soul-Guide Lantern,1,side,Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Supreme Verdict,1,side,Sorcery,WU
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Javier Dominguez,7,Wrath of the Skies,1,side,Sorcery,W
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Phyrexian Tower,3,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Swamp,6,main,Basic Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,"Urborg, Tomb of Yawgmoth",2,main,Legendary Land,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Boggart Trawler,4,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Grief,4,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Orcish Bowmasters,4,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Shambling Ghast,2,main,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,"Sheoldred, the Apocalypse",2,main,Legendary Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Agadeem's Awakening,2,main,Sorcery // Land,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Fell the Profane,4,main,Instant // Land,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Flare of Malice,2,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Force of Despair,1,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Inquisition of Kozilek,4,main,Sorcery,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Malakir Rebirth,4,main,Instant // Land,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,March of Wretched Sorrow,4,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Soul Spike,4,main,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Necrodominance,4,main,Legendary Enchantment,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,The One Ring,4,main,Legendary Artifact,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Break the Ice,3,side,Sorcery,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Dauthi Voidwalker,2,side,Creature,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Fatal Push,2,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Force of Despair,1,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Soulless Jailer,4,side,Artifact Creature,
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Surgical Extraction,1,side,Instant,B
+ptmh3,Pro Tour Modern Horizons 3,1,2024-06-28,modern,Seth Manfield,8,Thoughtseize,2,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Darkslick Shores,3,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Fountainport,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Gloomlake Verge,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Restless Reef,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Swamp,8,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Undercity Sewers,1,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Underground River,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Archfiend of the Dross,4,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Caustic Bronco,2,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Doomsday Excruciator,2,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Faerie Mastermind,4,main,Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Anoint with Affliction,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Cut Down,1,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Duress,4,main,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Go for the Throat,4,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Shoot the Sheriff,2,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Spell Stutter,2,main,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,"Jace, the Perfected Mind",2,main,Legendary Planeswalker,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Unholy Annex // Ritual Chamber,4,main,Enchantment,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Anoint with Affliction,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Cut Down,2,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Deadly Cover-Up,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Dreams of Steel and Oil,2,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Ghost Vacuum,1,side,Artifact,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Gix's Command,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,"Jace, the Perfected Mind",1,side,Legendary Planeswalker,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Liliana of the Veil,2,side,Legendary Planeswalker,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Negate,2,side,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Outrageous Robbery,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Javier Dominguez,1,Withering Torment,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Blooming Marsh,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Forest,3,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Fountainport,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Llanowar Wastes,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Restless Cottage,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Swamp,7,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Underground Mortuary,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Archfiend of the Dross,4,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Caustic Bronco,4,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Glissa Sunslayer,2,main,Legendary Creature,BG
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Mosswood Dreadknight,4,main,Creature,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Sentinel of the Nameless City,1,main,Creature,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Tranquil Frillback,2,main,Creature,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Anoint with Affliction,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Cut Down,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Dreams of Steel and Oil,1,main,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Duress,3,main,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Go for the Throat,4,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Unholy Annex // Ritual Chamber,3,main,Enchantment,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Choking Miasma,2,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Dreams of Steel and Oil,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Duress,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Ghost Vacuum,2,side,Artifact,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Gix's Command,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Harvester of Misery,1,side,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Liliana of the Veil,2,side,Legendary Planeswalker,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,"Nissa, Ascended Animist",2,side,Legendary Planeswalker,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Tear Asunder,2,side,Instant,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Marcio Carvalho,2,Tranquil Frillback,1,side,Creature,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Blooming Marsh,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Demolition Field,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Forest,4,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Fountainport,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Llanowar Wastes,3,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Restless Cottage,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Sunken Citadel,1,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Swamp,4,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Underground Mortuary,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Glissa Sunslayer,3,main,Legendary Creature,BG
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Harvester of Misery,1,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Overlord of the Hauntwoods,4,main,Enchantment Creature,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,"Sheoldred, the Apocalypse",2,main,Legendary Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Anoint with Affliction,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Cut Down,2,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Deadly Cover-Up,2,main,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Duress,3,main,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Gix's Command,1,main,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Go for the Throat,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Outrageous Robbery,1,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Pillage the Bog,1,main,Sorcery,BG
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Tear Asunder,2,main,Instant,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Up the Beanstalk,4,main,Enchantment,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Virtue of Persistence,2,main,Enchantment // Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,"Aclazotz, Deepest Betrayal",2,side,Legendary Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Blot Out,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Breach the Multiverse,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Cruelclaw's Heist,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Cut Down,2,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Deep-Cavern Bat,1,side,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Duress,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Ghost Vacuum,1,side,Artifact,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,"Nissa, Ascended Animist",1,side,Legendary Planeswalker,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Outrageous Robbery,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Tear Asunder,1,side,Instant,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,The End,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Seth Manfield,3,Tranquil Frillback,1,side,Creature,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Mountain,17,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Rockface Village,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Emberheart Challenger,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Heartfire Hero,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Hired Claw,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Manifold Mouse,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Monastery Swiftspear,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Screaming Nemesis,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Lightning Strike,4,main,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Monstrous Rage,4,main,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Shock,4,main,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Witchstalker Frenzy,3,main,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Lithomantic Barrage,3,side,Sorcery,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Obliterating Bolt,1,side,Sorcery,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Torch the Tower,4,side,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Twisted Fealty,2,side,Sorcery,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Urabrask's Forge,4,side,Artifact,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Quinn Tonole,4,Witchstalker Frenzy,1,side,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Darkslick Shores,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Escape Tunnel,1,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Gloomlake Verge,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Swamp,9,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Undercity Sewers,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Underground River,3,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Archfiend of the Dross,2,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Bloodletter of Aclazotz,4,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Deep-Cavern Bat,4,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Faerie Mastermind,4,main,Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Unstoppable Slasher,4,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Anoint with Affliction,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Cut Down,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Duress,3,main,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Go for the Throat,2,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Rush of Dread,1,main,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Shore Up,1,main,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Unholy Annex // Ritual Chamber,4,main,Enchantment,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Cut Down,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Dreams of Steel and Oil,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Duress,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Ghost Vacuum,2,side,Artifact,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Into the Flood Maw,2,side,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Liliana of the Veil,2,side,Legendary Planeswalker,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Malicious Eclipse,2,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,Negate,2,side,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Hoang Ha Pham,5,"Sheoldred, the Apocalypse",2,side,Legendary Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Copperline Gorge,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Karplusan Forest,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Mountain,4,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Restless Ridgeline,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Rockface Village,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Thornspire Verge,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Emberheart Challenger,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Heartfire Hero,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Manifold Mouse,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Monastery Swiftspear,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Questing Druid,2,main,Creature,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Slickshot Show-Off,4,main,Creature,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Might of the Meek,2,main,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Monstrous Rage,4,main,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Scorching Shot,1,main,Sorcery,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Shock,4,main,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Snakeskin Veil,2,main,Instant,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Torch the Tower,2,main,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Innkeeper's Talent,3,main,Enchantment,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Obliterating Bolt,3,side,Sorcery,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Pawpatch Formation,4,side,Instant,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Questing Druid,1,side,Creature,G
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Scorching Shot,2,side,Sorcery,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Torch the Tower,1,side,Instant,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Yoshihiko Ikawa,6,Urabrask's Forge,4,side,Artifact,R
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Darkslick Shores,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Gloomlake Verge,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Island,3,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Mirrex,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Restless Reef,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Swamp,5,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Underground River,3,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Deep-Cavern Bat,4,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Enduring Curiosity,1,main,Enchantment Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Ertai Resurrected,2,main,Legendary Creature,UB
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Faerie Mastermind,4,main,Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,"Gix, Yawgmoth Praetor",2,main,Legendary Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Preacher of the Schism,3,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,"Sheoldred, the Apocalypse",2,main,Legendary Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Spyglass Siren,4,main,Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Bitter Triumph,1,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Cut Down,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Go for the Throat,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Phantom Interference,2,main,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Three Steps Ahead,2,main,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,"Kaito, Bane of Nightmares",2,main,Legendary Planeswalker,UB
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,"Aclazotz, Deepest Betrayal",1,side,Legendary Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Anoint with Affliction,2,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Cut Down,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Disdainful Stroke,1,side,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Ghost Vacuum,2,side,Artifact,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Gix's Command,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Malicious Eclipse,2,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Negate,1,side,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Tishana's Tidebinder,2,side,Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Max Rappaport,7,Withering Torment,2,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Darkslick Shores,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Fountainport,2,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Gloomlake Verge,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Island,2,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Restless Reef,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Swamp,5,main,Basic Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Underground River,4,main,Land,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Deep-Cavern Bat,4,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Enduring Curiosity,4,main,Enchantment Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Ertai Resurrected,1,main,Legendary Creature,UB
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Faerie Mastermind,4,main,Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Spyglass Siren,4,main,Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Tishana's Tidebinder,1,main,Creature,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Unstoppable Slasher,3,main,Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Anoint with Affliction,1,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Cut Down,3,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Go for the Throat,4,main,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Phantom Interference,2,main,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Three Steps Ahead,2,main,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,"Kaito, Bane of Nightmares",2,main,Legendary Planeswalker,UB
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Anoint with Affliction,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Blot Out,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Cut Down,1,side,Instant,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Disdainful Stroke,1,side,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Duress,2,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Ghost Vacuum,2,side,Artifact,
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Gix's Command,1,side,Sorcery,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Negate,2,side,Instant,U
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,"Sheoldred, the Apocalypse",2,side,Legendary Creature,B
+2024wc,World Championship 30,0,2024-10-25,DSK standard,Kai Budde,8,Tishana's Tidebinder,2,side,Creature,U
