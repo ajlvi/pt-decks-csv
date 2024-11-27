@@ -1,9 +1,13 @@
 # pt-decks-csv
 A compilation of each published decklist from every single-elimination round at PTs/WCs/MCs/PTs.
 
+### Source
+
+Just about everything comes from mtgtop8; for some of the really really old tournaments I had to go to archived copies of the official coverage site. Some of the corrections came from discussions with the players themselves or from old Duelists.
+
 ### Data
 
-The is_pt column is 0 for "small" Worlds, Players Tour events, and pandemic-era Arena events; 1 otherwise. The half-PT-size Worlds (2023-present) are considered "small". Most of the other columns are probably self-explanatory.
+The `is_pt` column is 0 for "small" Worlds, Players Tour events, and pandemic-era Arena events; 1 otherwise. The half-PT-size Worlds (2023-present) are considered "small". Most of the other columns are probably self-explanatory.
 
 The following events only have four lists included:
 
