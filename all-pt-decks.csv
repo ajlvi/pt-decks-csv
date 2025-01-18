@@ -1,4 +1,4 @@
-A,full_name,is_pt,date,format,player,place,card,quantity,location,type_line,color
+event,full_name,is_pt,date,format,player,place,card,quantity,location,type_line,color
 ptny96,Pro Tour New York 1996,1,1996-02-18,4ED-HML standard+,Michael Loconto,1,Wizards' School,1,main,Land,
 ptny96,Pro Tour New York 1996,1,1996-02-18,4ED-HML standard+,Michael Loconto,1,Deflection,1,main,Instant,U
 ptny96,Pro Tour New York 1996,1,1996-02-18,4ED-HML standard+,Michael Loconto,1,Blinking Spirit,2,main,Creature,W
